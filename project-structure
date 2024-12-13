@@ -1,0 +1,23 @@
+benzo-tracker/
+├── src/
+│   ├── main/
+│   │   └── main.js
+│   ├── preload/
+│   │   └── preload.js
+│   └── renderer/
+│       ├── components/
+│       │   ├── App.jsx
+│       │   ├── Dashboard.jsx
+│       │   ├── MedicationLogForm.jsx
+│       │   └── Settings.jsx
+│       ├── context/
+│       │   └── MedDataContext.jsx
+│       ├── utils/
+│       │   ├── calculations.js
+│       │   ├── storage.js
+│       │   └── medications.js
+│       └── index.jsx
+├── public/
+│   └── index.html
+├── package.json
+└── webpack.config.js

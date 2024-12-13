@@ -1,0 +1,57 @@
+{
+	"doses": [
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1734094320000,
+			"notes": "",
+			"id": 1734097943043
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1734079920000,
+			"notes": "",
+			"id": 1734097949851
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1734007920000,
+			"notes": "",
+			"id": 1734097955261
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1733791920000,
+			"notes": "",
+			"id": 1734097966094
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1733821140000,
+			"notes": "",
+			"id": 1734098389631
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1733921940000,
+			"notes": "",
+			"id": 1734098395832
+		},
+		{
+			"medicationName": "Diazepam",
+			"amount": 2,
+			"timestamp": 1734094740000,
+			"notes": "",
+			"id": 1734098397397
+		}
+	],
+	"settings": {
+		"defaultMedication": "Diazepam",
+		"graphDays": 1
+	}
+}
