@@ -1,3 +1,6 @@
+# Project status
+For now, I am putting this project on hold. I like the concept still, but I do not have the free time to fully develop it. Also, I am not happy with the stack (specifically, Electron), and would like to refactor (or rather, rebuild) the app using a Vite and Expo or something or rather.
+
 # Medication Tracker
 
 A cross-platform desktop application for tracking benzodiazepine medication usage and monitoring plasma levels. Built with Electron and React.
